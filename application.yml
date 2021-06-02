@@ -1,12 +1,12 @@
 spring: 
 prifiles:
-	active: dev
+active: dev
 
 ---
 spring:
 profiles: dev
 application:
-	name: springcloud-config-dev
+name: springcloud-config-dev
 
 ---
 spring:
